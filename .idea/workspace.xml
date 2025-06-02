@@ -5,15 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c28dc05-3d71-451a-b45a-a403323af2ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Calendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ProfileSelector.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/RecipeCard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context/UserContext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Auth/AuthModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Auth/LoginButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Tabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/supabaseClient.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Calendar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Calendar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/UserContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/UserContext.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,10 +26,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ImPunktFinn"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ImPunktFinn/mealplan.git",
+    "accountId": "363d9f73-b7cf-4764-9351-9a464f285a1f"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2xUZfuRoenH9jnf3lg8SN9b7gZB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,20 +51,20 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.3.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "ts.external.directory.path": "D:\\Programme\\WebStorm 2024.1.5\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.25659.40" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.18034.50" />
       </set>
     </attachedChunks>
   </component>
@@ -62,6 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1747994723146</updated>
       <workItem from="1747994725293" duration="955000" />
+      <workItem from="1748879928332" duration="6462000" />
     </task>
     <servers />
   </component>
